@@ -8,7 +8,6 @@ Welcome to **Escape NOW**, a terminal-based game! In this game, you'll navigate 
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
