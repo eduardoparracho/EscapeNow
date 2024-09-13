@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/1992f1b1-b47c-4b07-a0a9-b421d728cc66)# Escape NOW
+![image](https://github.com/user-attachments/assets/69ab370f-265c-42fc-9d6a-f4b2743b4b6d)
+
+# Escape NOW
 
 Welcome to **Escape NOW**, a terminal-based game! In this game, you'll navigate through a mysterious house, find keys and attempt to escape!. 
 
