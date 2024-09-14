@@ -73,6 +73,7 @@ If you have any questions or feedback, please feel free to reach out to our team
 
 The Memory Warriors:
 Paula Boks, Ailla Souza, Mariama Yasmine and Eduardo Parracho.
+Presentation Link: https://docs.google.com/presentation/d/1Uw4tjdYxlB9HzHofegh8dHb1-87XmUK6rxMjrCXIsMs/edit#slide=id.p
 
 ---
 
